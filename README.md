@@ -1,5 +1,6 @@
-# 我的个人网站 `https://loungcingzeon.github.io/react-resume/`
-  - npm官网：https://npmjs.com
+# 我的个人网站 
+  - 个人Blog: https://loungcingzeon.github.io/react-resume/
+  - npm官网：https://npmjs.com
   - 将包发布到npm
   - 创建 .npmignore
     01. 主要是设置一下 文件不想被提交到npm服务器上去就可以在里设置过滤的, 就不会发布不出去
