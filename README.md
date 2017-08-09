@@ -1,4 +1,4 @@
-# 我的个人网站
+# 我的个人网站 `https://loungcingzeon.github.io/react-resume/`
   - npm官网：https://npmjs.com
   - 将包发布到npm
   - 创建 .npmignore
