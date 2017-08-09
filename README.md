@@ -1,5 +1,6 @@
 # 我的个人网站 
-  - 个人Blog: https://loungcingzeon.github.io/react-resume/
+  
+  - 个人Blog：https://loungcingzeon.github.io/react-resume/
   - npm官网：https://npmjs.com
   - 将包发布到npm
   - 创建 .npmignore
